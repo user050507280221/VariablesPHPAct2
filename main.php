@@ -1,12 +1,12 @@
 <?php
-$name = "BENITEZ, ANGEL A.";
+$namee = "BENITEZ, ANGEL A.";
 $age = "20";
 $school = "GRC";
 $course = "BSIT";
 $subject = " WEBSYS";
 $student = "yes";
 
-echo "I am $name <br>";
+echo "I am $namee <br>";
 echo "I am $age years old <br>";
 echo "I am from $school <br>";
 echo "My course is $course <br>";
