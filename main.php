@@ -6,11 +6,11 @@ $course = "BSIT";
 $subject = " WEBSYS";
 $student = "yes";
 
-echo "I am $name \n";
-echo "I am $age years old \n";
-echo "I am from $school \n";
-echo "My course is $course \n";
-echo "I am doing my $subject activity \n";
+echo "I am $name <br>";
+echo "I am $age years old <br>";
+echo "I am from $school <br>";
+echo "My course is $course <br>";
+echo "I am doing my $subject activity <br>";
 echo "Are you Student? $student ";
 
 ?>
