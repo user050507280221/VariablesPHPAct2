@@ -4,7 +4,7 @@ $age = "20";
 $school = "GRC";
 $course = "BSIT";
 $subject = " WEBSYS";
-$student = yes;
+$student = "yes";
 
 echo "I am $name \n";
 echo "I am $age years old \n";
